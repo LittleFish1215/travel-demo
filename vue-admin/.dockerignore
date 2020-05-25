@@ -1,0 +1,33 @@
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+.DS_Store
+dist
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+.dockerignore
+Dockerfile
+*docker-compose*
+
+# Logs
+logs
+*.log
+
+# Runtime data
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+pids
+*.pid
+*.seed
+.git
+.hg
+.svn
