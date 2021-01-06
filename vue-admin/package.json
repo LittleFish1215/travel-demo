@@ -11,7 +11,7 @@
     "dev": "vue-cli-service serve --open"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "clipboard": "^2.0.4",
     "codemirror": "^5.52.0",
     "countup": "^1.8.2",
