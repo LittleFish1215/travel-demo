@@ -39,7 +39,7 @@
 		"mongoose": "^5.7.7",
 		"nodemailer": "^6.3.1",
 		"qs": "^6.9.3",
-		"redis": "^2.8.0",
+		"redis": "^3.1.1",
 		"require-context": "^1.1.0",
 		"saslprep": "^1.0.3",
 		"svg-captcha": "^1.4.0",
