@@ -22,7 +22,7 @@
 		"@koa/cors": "^3.0.0",
 		"bcryptjs": "^2.4.3",
 		"dayjs": "^1.8.24",
-		"jsonwebtoken": "^8.5.1",
+		"jsonwebtoken": "^9.0.0",
 		"koa": "^2.7.0",
 		"koa-body": "^4.1.0",
 		"koa-combine-routers": "^4.0.2",
